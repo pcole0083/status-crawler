@@ -1,0 +1,18 @@
+{
+  "name": "status-crawler",
+  "version": "0.0.1",
+  "description": "Crawler for Pixafy sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Pat Coleman <pcole0083@gmail.com> (https://github.com/pcole0083/)",
+  "license": "ISC",
+  "dependencies": {
+    "js-crawler": "git+https://github.com/pcole0083/js-crawler.git",
+    "mkdirp": "^0.5.1"
+  }
+}
