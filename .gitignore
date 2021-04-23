@@ -38,3 +38,4 @@ jspm_packages
 
 #ignore crawler made dirs
 crawled/*
+body/*

@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "js-crawler": "git+https://github.com/pcole0083/js-crawler.git",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "node-html-parser": "^3.0.4"
   }
 }
